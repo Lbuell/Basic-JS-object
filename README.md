@@ -17,12 +17,6 @@ Using a constructor to build a basic JS object,   Allows you to put in all the b
 
 clone the repo, use node to run in console
 
-## Information
-
-Screenshots of your application below:
-
-TODO
-
 
 ### Known Issues
 
